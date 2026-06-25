@@ -1,8 +1,8 @@
 # Chess 3D Ultimate
 
 ## Liens vers l'application
-- Lien public: lien detecte mais masque par securite orchestrateur
-- GitHub: non detecte
+- Lien public: https://chess.c2rdesign.com/
+- GitHub: https://github.com/RYJITS/chess-3d-ultimate
 
 ## A quoi sert le projet
 Chess 3D Ultimate est un jeu d'echecs 3D jouable dans le navigateur. Il propose un plateau interactif, des pieces procedurales, plusieurs themes visuels et une IA adverse.
@@ -49,10 +49,9 @@ Le projet a ete concu en separant la logique d'echecs de la scene 3D. Les regles
 
 ## Mises a jour
 - Fiche actualisee depuis le registre orchestrateur et le catalogue projet.
-- Changements locaux detectes: relire la fiche apres validation des modifications.
-- Derniere mise a jour registre connue: 2026-06-21T21:46:01.932Z.
+- Derniere mise a jour registre connue: 2026-06-25T00:55:43.971Z.
 
 ## Derniere mise a jour
-2026-06-21T21:46:01.934Z
+2026-06-25T00:55:43.975Z
 
 > Fichier genere par l'orchestrateur pour le hub Site Ma Methode.
