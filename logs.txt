@@ -1,0 +1,29 @@
+
+[SYSTEM_BOOT] Initializing Chess 3D Ultimate...
+[GRAPHICS] WebGL context created. Antialiasing: Enabled. Shadows: Soft.
+[ASSETS] Procedural Geometry Factory loaded. Themes available: Classic, Lego, Disney.
+[LOGIC] Chess.js engine instance started. FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+[AI] Minimax Strategy loaded. Default Depth: 2.
+[AI] Gemini Client initialized (Status: Idle, Waiting for API Key).
+[UI] HUD mounted. Event listeners attached.
+[FEATURE] Move Assistance Module: ACTIVE. Visual markers enabled.
+[UPDATE] Classic Theme Assets upgraded to High-Fidelity Staunton Profiles.
+[UPDATE] Classic Theme Colors refined: Ebonized Wood & Boxwood on Cream/Charcoal Board.
+[UPDATE] Piece Geometry Engine: Replaced linear profiles with High-Res Bezier approximations (64 segments).
+[UPDATE] Geometry Refinement: Rook height aligned to Pawn. Queen equipped with Procedural Coronet (9-point spike ring).
+[UPDATE] Major Piece Remodel: Increased base/body thickness and added sculptural rings to Rook, Knight, Bishop, Queen, King.
+[UPDATE] Bishop Geometry Refined: Added distinct collar, traditional mitre shape, and finial ball.
+[SYSTEM] CLASSIC THEME LOCKED. Geometry and color profiles serialized. 
+[UPDATE] LEGO Theme: Board converted to Baseplate geometry (studded tiles).
+[UPDATE] LEGO Theme: Minifigure factory activated. Characters: Luke, Vader, Leia, Emperor, Yoda, Maul, R2D2, Stormtrooper.
+[BUGFIX] Raycaster Selection logic patched. Recursive userData propagation enabled for all procedural geometries.
+[READY] System ready for user interaction.
+[FIX] Adjusted Selection and Valid Move Indicator heights for Lego Mode. Prevents occlusion by board studs.
+[UPDATE] Lego Minifigure scale increased to 0.85. Base position elevated to 0.15 to sit on studs.
+[UPDATE] Lego Engine Overhaul: Implemented realistic anatomy (Trapezoidal Torso, C-Clamp Hands, Articulated Arms).
+[UPDATE] Lego Characters: Replaced Black Pawns (Stormtroopers) with Imperial Astromech Droids (Black Robots).
+[ENV] Lego Environment Initialized: Starfield generated (2000 points). Death Star geometry constructed.
+[ANIMATION] Space Combat Spawner active. Procedural X-Wing and TIE Fighter models loaded.
+[FIX] iPhone Optimization Applied: PixelRatio locked to 1.0, ShadowMap size reduced to 512.
+[UPDATE] Lego Luke Skywalker color changed to White. Lightsaber position adjusted forward.
+[FEATURE] Death Star Superlaser Animation linked to capture events.
