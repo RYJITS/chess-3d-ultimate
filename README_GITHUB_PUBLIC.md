@@ -26,6 +26,12 @@ npm run dev
 npm run build
 ```
 
+## Captures d'ecran
+
+![Capture desktop](docs/github-captures/20-chess-3d-ultimate-2026-06-25_02-55-45-desktop.png)
+
+![Capture mobile](docs/github-captures/20-chess-3d-ultimate-2026-06-25_02-55-45-mobile.png)
+
 ## Variables d'environnement
 
 Aucune variable d'environnement n'a ete detectee par l'orchestrateur.
