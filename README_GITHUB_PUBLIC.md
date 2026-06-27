@@ -28,9 +28,9 @@ npm run build
 
 ## Captures d'ecran
 
-![Capture desktop](docs/github-captures/20-chess-3d-ultimate-2026-06-28_00-03-02-desktop.png)
+![Capture desktop](docs/github-captures/20-chess-3d-ultimate-2026-06-28_00-08-05-desktop.png)
 
-![Capture mobile](docs/github-captures/20-chess-3d-ultimate-2026-06-28_00-03-02-mobile.png)
+![Capture mobile](docs/github-captures/20-chess-3d-ultimate-2026-06-28_00-08-05-mobile.png)
 
 ## Variables d'environnement
 
