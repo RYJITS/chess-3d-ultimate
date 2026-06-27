@@ -45,9 +45,9 @@ Le projet a ete concu en separant la logique d'echecs de la scene 3D. Les regles
 - Resize automatique de la scene
 
 ## Captures d'ecran
-![Capture 1 - chess-3d-ultimate](docs/captures/20-chess-3d-ultimate-2026-06-27_23-32-47-desktop.png)
+![Capture 1 - chess-3d-ultimate](docs/captures/20-chess-3d-ultimate-2026-06-27_23-58-17-desktop.png)
 
-![Capture 2 - chess-3d-ultimate](docs/captures/20-chess-3d-ultimate-2026-06-27_23-32-47-mobile.png)
+![Capture 2 - chess-3d-ultimate](docs/captures/20-chess-3d-ultimate-2026-06-27_23-58-17-mobile.png)
 
 ## Mises a jour
 - Fiche actualisee depuis le registre orchestrateur et le catalogue projet.
