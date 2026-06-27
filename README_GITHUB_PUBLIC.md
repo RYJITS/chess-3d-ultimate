@@ -1,12 +1,12 @@
 # Chess 3D Ultimate
 
-Jeu d'echecs 3D dans le navigateur. Il combine plateau WebGL, pieces procedurales, regles chess.js, IA locale et option Gemini.
+## Concept
 
-## Objectif
+Jeu d'echecs 3D dans le navigateur. Il combine plateau WebGL, pieces procedurales, regles chess.js, IA locale et option Gemini.
 
 Creer un jeu d'echecs visuel, interactif et presentable.
 
-## Fonctions principales
+## Fonctionnalites principales
 
 - Affiche un plateau d'echecs 3D interactif.
 - Valide les coups et gere la partie avec chess.js.
