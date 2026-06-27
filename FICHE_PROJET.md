@@ -45,13 +45,11 @@ Le projet a ete concu en separant la logique d'echecs de la scene 3D. Les regles
 - Resize automatique de la scene
 
 ## Captures d'ecran
-- Aucune capture validee pour cette fiche.
+![Capture 1 - chess-3d-ultimate](docs/captures/20-chess-3d-ultimate-2026-06-27_23-32-47-desktop.png)
+
+![Capture 2 - chess-3d-ultimate](docs/captures/20-chess-3d-ultimate-2026-06-27_23-32-47-mobile.png)
 
 ## Mises a jour
 - Fiche actualisee depuis le registre orchestrateur et le catalogue projet.
-- Derniere mise a jour registre connue: 2026-06-25T00:55:43.971Z.
-
-## Derniere mise a jour
-2026-06-25T00:55:43.975Z
 
 > Fichier genere par l'orchestrateur pour le hub Site Ma Methode.
